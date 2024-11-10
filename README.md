@@ -1,7 +1,9 @@
-# Interactive Image Compression Website
+#Interactive Image Compression Website
 
-Developed an interactive educational tool to demystify image compression by introducing users to basic image compression concepts and techniques from Stanford University's ENGR 76: Information Science and Engineering course.
+Developed an interactive educational tool to introduce users to image compression concepts from Stanford’s ENGR 76 course. Users can input images from the gallery to explore various compression techniques, engage with challenges, and access supplementary videos for further exploration. Features include a navigation bar, dark mode toggle, and scroll animations.
 
-Users can input different images to test out of the effects of basic image compression techniques. They are challenges that users can try to further engage with the concepts, as well as links to videos for more in depth exploration. Additional features include a navigation bar, toggle dark mode button, and scroll animation.
+Built with Flask (backend), HTML, CSS, and JavaScript (frontend).
 
-Utilized Flask for the backend and HTML, CSS, and Javascript for the frontend.
+Credits: Test images and some helper functions in the image compression code are from the course.
+
+Website: https://demystify-image-compression-yusraabdelrahma.replit.app
