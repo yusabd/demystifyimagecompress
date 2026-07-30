@@ -6,4 +6,4 @@ Built with Flask (backend), HTML, CSS, and JavaScript (frontend).
 
 Credits: Test images and some helper functions in the image compression code are from the course.
 
-Website: https://demystify-image-compression-yusraabdelrahma.replit.app
+Website: https://demystify-image-compression.replit.app
